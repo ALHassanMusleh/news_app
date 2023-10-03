@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Lionel Messi to miss next Inter Miami match. Latest injury update on soccer's biggest star - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/sports/mls/2023/09/21/lionel-messi-inter-miami-injury-status/70922324007/",
+      "urlToImage": null,
+      "publishedAt": "2023-09-22T22:30:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Minneapolis Star Tribune"
+      },
+      "author": "Phil Miller, Star Tribune",
+      "title": "Twins third baseman Royce Lewis will miss remainder of regular season - Star Tribune",
+      "description": "Lewis was put on the injured list because of a hamstring pull, but the team hopes he'll be ready for the playoffs. Jordan Luplow was recalled from St. Paul.",
+      "url": "https://www.startribune.com/royce-lewis-minnesota-twins-injured-list-hamstring/600306821/",
+      "urlToImage": "https://chorus.stimg.co/24944880/merlin_71888384.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+      "publishedAt": "2023-09-22T21:33:45Z",
+      "content": "Twins rookie Royce Lewis was placed on the 10-day injured list after straining his left hamstring during the Twins' game in Cincinnati on Tuesday night. He will miss the remainder of the regular sea… [+1157 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Nbcsportsbayarea.com"
+      },
+      "author": "Matt Maiocco",
+      "title": "Purdy, 49ers' offense make Giants pay for blitz-happy approach - NBC Sports Bay Area",
+      "description": "Despite a rough start, 49ers QB Brock Purdy stayed strong against the Giants' blitz on Thursday.",
+      "url": "https://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/brock-purdy-offense-giants-blitz/1657065/",
+      "urlToImage": "https://media.nbcsportsbayarea.com/2023/09/brock-purdy-giants-blitz-GETTY.jpg?quality=85&strip=all&resize=1200%2C675",
+      "publishedAt": "2023-09-22T21:33:03Z",
+      "content": "SANTA CLARA   What began as a choppy performance ended with 49ers quarterback Brock Purdy chopping up the New York Giants blitz packages on Thursday night. Purdy completed 25 of 37 passing attempts … [+2292 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "NFL Week 3 injury reports: Chargers' Austin Ekeler, Colts' Anthony Richardson officially out; Ravens depleted - CBS Sports",
+      "description": "A look at which players are on each team's injury report in Week 3",
+      "url": "https://www.cbssports.com/nfl/news/nfl-week-3-injury-reports-chargers-austin-ekeler-colts-anthony-richardson-officially-out-ravens-depleted/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/22/486961b0-c0dc-4e00-881c-acb37f874b6e/thumbnail/1200x675/26dd85ab052008b3e0c8ca2dd41c41d7/richardson.jpg",
+      "publishedAt": "2023-09-22T21:21:00Z",
+      "content": "It's starting to feel like this season, more than any in recent memory, has an unusually large number of injuries, specifically to big-name players. As we head into Week 3, we have already seen New Y… [+8282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Ryan Young",
+      "title": "49ers reach contract extensions with GM John Lynch, head coach Kyle Shanahan - Yahoo Sports",
+      "description": "The 49ers are off to a 3-0 start this season, the seventh under coach Kyle Shanahan and general manager John Lynch.",
+      "url": "https://sports.yahoo.com/49ers-reach-contract-extensions-with-gm-john-lynch-head-coach-kyle-shanahan-204953646.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/YFHPcZwNjE5hW2XbtlktMA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/cbc7a5a0-5987-11ee-bbee-60b2c9e4d8fd",
+      "publishedAt": "2023-09-22T20:49:53Z",
+      "content": "John Lynch and Kyle Shanahan arent going anywhere. The San Francisco 49ers announced Friday, the morning after their 30-12 win over the New York Giants, that they had extended both Lynchs and Shanah… [+2168 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Austin Nivison",
+      "title": "Soldier Field manager says more than $100,000 of equipment was stolen from Bears' stadium - CBS Sports",
+      "description": "Thieves allegedly made off with expensive equipment on Wednesday",
+      "url": "https://www.cbssports.com/nfl/news/soldier-field-manager-says-more-than-100000-of-equipment-was-stolen-from-bears-stadium/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/22/1e42a07c-cb99-4c6f-8658-a08f5c9af524/thumbnail/1200x675/d84077349c8749629b674a84c71aa197/gettyimages-1640357926-2.jpg",
+      "publishedAt": "2023-09-22T20:45:00Z",
+      "content": "Things just continue to get worse for the Chicago Bears as they sit at 0-2 on the season. Third-year quarterback Justin Fields and the offense has struggled, defensive coordinator Alan Williams resig… [+1002 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Mike Florio",
+      "title": "Chargers won't have Austin Ekeler, Eric Kendricks at Minnesota - NBC Sports",
+      "description": "The 0-2 Chargers will face the 0-2 Vikings without a key player on each side of the ball.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/chargers-wont-have-austin-ekeler-eric-kendricks-at-minnesota",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/58b281f/2147483647/strip/true/crop/4960x2790+0+114/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F09%2Faa%2Ff289daa248dca5622ebcf1d43eb8%2Fhttps-api-imagn.com%2Frest%2Fdownload%2FimageID%3D21391809",
+      "publishedAt": "2023-09-22T20:27:25Z",
+      "content": "The 0-2 Chargers will face the 0-2 Vikings without a key player on each side of the ball. Running back Austin Ekeler and linebacker Eric Kendricks have both been ruled out for Sundays game. Ekeler … [+755 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KMBC Kansas City"
+      },
+      "author": "Nick Sloan",
+      "title": "The Kansas City Chiefs will be without a key piece of their defense; other players questionable - KMBC Kansas City",
+      "description": "The Kansas City Chiefs will be without a key part of their defense on Sunday against the Chicago Bears.",
+      "url": "https://www.kmbc.com/article/kansas-city-chiefs-injury-report-against-chicago-bears/45270233",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/7219b3ae-d659-4bf5-92f0-20be328a1af9/8e8fcd85-4149-4f46-bf19-959aaed4b089.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2023-09-22T20:21:00Z",
+      "content": "KANSAS CITY, Mo. —The Kansas City Chiefs will be without a key part of their defense on Sunday against the Chicago Bears. Linebacker Nick Bolton will miss Sunday's game due to an injury, according t… [+966 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Rich Cimini",
+      "title": "Aaron Rodgers congratulated Jordan Love for keeping Bears 'ownership in place' - ESPN - ESPN",
+      "description": "Aaron Rodgers sent Packers QB Jordan Love a text after he beat the Bears in Week 1, congratulating him on "keeping the ownership in place."",
+      "url": "https://www.espn.com/nfl/story/_/id/38463673/aaron-rodgers-congratulated-jordan-love-keeping-bears-ownership-place",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0922%2Fr1228297_1024x576_16%2D9.jpg",
+      "publishedAt": "2023-09-22T20:17:00Z",
+      "content": "Aaron Rodgers is focused on the New York Jets and his Achilles rehab, but old habits die hard: He still likes poking the Chicago Bears. Rodgers, a guest Friday on "The Pat McAfee Show," said he sent… [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "The Athletic Staff",
+      "title": "Sean Doolittle retires after 11 MLB seasons, leaving lasting Nationals, A’s legacy - The Athletic",
+      "description": "Doolittle, a two-time MLB All-Star and former Washington Nationals reliever, is retiring from baseball "after 11 incredible seasons."",
+      "url": "https://theathletic.com/4889840/2023/09/22/sean-doolittle-retires-mlb-nationals/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2019/09/01210834/GettyImages-1149649396-e1567557781686.jpg",
+      "publishedAt": "2023-09-22T20:09:27Z",
+      "content": "By Brittany Ghiroli, David Aldridge and Melissa Lockard Sean Doolittle, a two-time MLB All-Star and former Washington Nationals reliever, is retiring from baseball after 11 incredible seasons, he an… [+5869 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Zach Kruse",
+      "title": "Breaking down Packers' final injury report of Week 3 vs. Saints - Packers Wire",
+      "description": "Breaking down the final injury report for the Packers ahead of Week 3 vs. the Saints.",
+      "url": "https://packerswire.usatoday.com/lists/breaking-down-packers-final-injury-report-of-week-3-vs-saints/",
+      "urlToImage": "https://packerswire.usatoday.com/wp-content/uploads/sites/57/2023/09/GB_IR_W3.png?w=1024&h=576&crop=1",
+      "publishedAt": "2023-09-22T20:04:00Z",
+      "content": "Green Bay Packers running back Aaron Jones (33) runs for a touchdown during second half of their game against the Chicago Bears on Sunday, Sept. 10, 2023 at Soldier Field in Chicago. RB Aaron Jones … [+1202 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Michael David Smith",
+      "title": "Matt Eberflus says he feels for Alan Williams, will call defense himself - NBC Sports",
+      "description": "Bears head coach Matt Eberflus said today that he feels for Alan Williams, the defensive coordinator who resigned this week for reasons that remain mysterious.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/matt-eberflus-says-he-feels-for-alan-williams-will-call-defense-himself",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/fa401f8/2147483647/strip/true/crop/2824x1589+0+147/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F1c%2F60%2Fb74fb8f04d13b4a48c8f0a60ee59%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1677402520",
+      "publishedAt": "2023-09-22T19:55:34Z",
+      "content": "Bears head coach Matt Eberflus said today that he feels for Alan Williams, the defensive coordinator who resigned this week for reasons that remain mysterious. I was with him four years, five years.… [+735 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Packers.com"
+      },
+      "author": null,
+      "title": "Packers list RB Aaron Jones, WR Christian Watson, three others questionable for Sunday | Week 3 Injury Report - Packers.com",
+      "description": "T David Bakhtiari, CB Jaire Alexander, LB Lukas Van Ness also questionable; G Elgton Jenkins ruled out against Saints",
+      "url": "https://www.packers.com/news/packers-saints-injury-report-sept-22-2023",
+      "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/packers/gpct1frhde2g1ws6uul9",
+      "publishedAt": "2023-09-22T19:47:22Z",
+      "content": "GREEN BAY The Packers have listed running back Aaron Jones (hamstring), receiver Christian Watson (hamstring), tackle David Bakhtiari (knee), linebacker Lukas Van Ness (elbow) and cornerback Jaire Al… [+1678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB.com"
+      },
+      "author": "Justice delos Santos",
+      "title": "Joshua Palacios hits clutch homer to lift Pirates to win - MLB.com",
+      "description": "CHICAGO -- The Pirates have played fine ball as summer turns to fall. They currently sit nine games under .500 as a whole, but they’ve been above par over the last handful of weeks. They’ve taken series from several quality opponents, a list that now includes…",
+      "url": "https://www.mlb.com/news/joshua-palacios-hits-clutch-homer-to-lift-pirates-to-win",
+      "urlToImage": "https://img.mlbstatic.com/mlb-images/image/upload/t_2x1/t_w1536/mlb/baevkbmymq0bnmvrqrvk.jpg",
+      "publishedAt": "2023-09-22T19:44:39Z",
+      "content": "CHICAGO -- The Pirates have played fine ball as summer turns to fall. They currently sit nine games under .500 as a whole, but theyve been above par over the last handful of weeks. Theyve taken serie… [+4161 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Ryan Lavner",
+      "title": "With spirit of captain, Europe fights back Friday at Solheim Cup - NBC Sports",
+      "description": "Europe was down 4-0 after the first session, but made it a mission to make this competitive.",
+      "url": "https://www.nbcsports.com/golf/news/with-spirit-of-captain-europe-fights-back-friday-at-solheim-cup",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/f341d7c/2147483647/strip/true/crop/4965x2793+0+350/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.amazonaws.com%2Fbrightspot%2F0d%2F95%2F7ed8e16b4f2190e3e863519ed82a%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1695791200",
+      "publishedAt": "2023-09-22T19:42:34Z",
+      "content": "CASARES, Spain Show no mercy. Thats what European Solheim Cup captain Suzann Pettersen told the team ironically after they got boatraced in the opening session here at Finca Cortesin. Show no mercy… [+4219 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Fiziev vs Gamrot Weigh-In | UFC Vegas 79 - UFC",
+      "description": "All athletes competing at UFC Vegas 79 took to the scale on Friday ahead of fight night. Main card action kicks off on Saturday at 7pm ET / 4pm PT.Subscribe ...",
+      "url": "https://www.youtube.com/watch?v=eTzzZpMKqSw",
+      "urlToImage": "https://i.ytimg.com/vi/eTzzZpMKqSw/maxresdefault.jpg",
+      "publishedAt": "2023-09-22T19:00:16Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "College football games, storylines: Pac-12's bevy of star transfer QBs lead league into season-changing Week 4 - CBS Sports",
+      "description": "The biggest week of the 2023 season -- to this point -- can change teams' fortunes and futures on a dime",
+      "url": "https://www.cbssports.com/college-football/news/college-football-games-storylines-pac-12s-bevy-of-star-transfer-qbs-lead-league-into-season-changing-week-4/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/22/d0e2b640-c6da-4427-856e-3123df5ed795/thumbnail/1200x675/595730b068bfad3e1132092ba1050cfc/shedeur-sanders-colorado-black-jersey-g.png",
+      "publishedAt": "2023-09-22T18:58:00Z",
+      "content": "By fortune, happenstance or coaching skill, the Pac-12 has cornered the market on transfer quarterbacks. The season opened with nine of the conference's 12 starting quarterbacks not initially signi… [+9199 chars]"
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "Jordan Mendoza",
+      "title": "NFL Week 3 games could be affected by tropical storm - USA TODAY",
+      "description": "High winds and heavy rain could be in store for some teams this weekend after a tropical storm warning was issued by the National Hurricane Center.",
+      "url": "https://www.usatoday.com/story/sports/nfl/2023/09/21/tropical-storm-nfl-impact-week-3/70923437007/",
+      "urlToImage": "https://www.usatoday.com/gcdn/presto/2023/09/17/USAT/db6370f4-3f38-4678-aaff-98b471733641-USATSI_16938089.jpg?crop=2008,1130,x0,y0&width=2008&height=1130&format=pjpg&auto=webp",
+      "publishedAt": "2023-09-22T18:57:09Z",
+      "content": "Tropical Storm Ophelia, which became a named storm in the Atlantic Ocean on Friday, could heavily impact some NFL games Sunday, possibly bringing heavy winds and rain onto fields and stands. Tropica… [+1694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Colorado to face Oregon & everyone is paying attention, Caleb Williams, Michael Penix Jr | THE HERD - The Herd with Colin Cowherd",
+      "description": "Chris Petersen, former college football coach, and current CFB analyst, joins Colin Cowherd on The Herd to talk the biggest headlines ahead of this Saturday'...",
+      "url": "https://www.youtube.com/watch?v=d2GEW__DFPU",
+      "urlToImage": "https://i.ytimg.com/vi/d2GEW__DFPU/maxresdefault.jpg",
+      "publishedAt": "2023-09-22T18:45:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Todd Archer",
+      "title": "Trevon Diggs' injury 'a punch to the gut,' Mike McCarthy says - ESPN - ESPN",
+      "description": "Dallas Cowboys coach Mike McCarthy said the loss of cornerback Trevon Diggs for the season was 'a punch to the gut,' but expressed confidence in the team's defensive depth.",
+      "url": "https://www.espn.com/nfl/story/_/id/38462861/trevon-diggs-injury-punch-gut-mike-mccarthy-says",
+      "urlToImage": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0107%2Fr958991_1296x729_16%2D9.jpg",
+      "publishedAt": "2023-09-22T18:43:00Z",
+      "content": "FRISCO, Texas -- Dallas Cowboys coach Mike McCarthy acknowledged that the loss of cornerback Trevon Diggs for the season with a torn anterior cruciate ligament in his left knee during Thursday's prac… [+2879 chars]"
+    }
+  ]
+}
